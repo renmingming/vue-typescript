@@ -21,4 +21,23 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 演示vue+typescript内容
+
+   1、定义Window全局声明
+   
+   2、vuex Acton Mutation Geter State
+   
+   3、Provide、Inject 刷新案例
+   
+   4、@Emit
+   
+   5、typescript泛型 Test中的identity
+   
+   6、@Watch HelloWorld中
+   
+   7、ref、dom类型断言
+   
+   8、computed计算属性 get
+
+   9、@Model 组件上实现双向绑定
